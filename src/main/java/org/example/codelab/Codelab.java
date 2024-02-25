@@ -1,4 +1,4 @@
-package com.example.codelab;
+package org.example.codelab;
 
 import java.time.Period;
 import java.util.Scanner;
